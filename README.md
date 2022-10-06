@@ -1,4 +1,4 @@
-##  API RestFull para estudo de Swagger Controller Advice
+##  API RestFull para estudo de Swagger e Controller Advice
 
 Estudo de documentação com Swagger e Interceptações de exceptions com ControllerAdivice.
 
